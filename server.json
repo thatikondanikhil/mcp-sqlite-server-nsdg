@@ -8,11 +8,12 @@
     "url": "https://github.com/thatikondanikhil/mcp-sqlite-server-nsdg.git",
     "source": "github"
   },
+  
   "packages": [
     {
       "registryType": "pypi",
-      "identifier": "mcp-sqlite-server-nsdg",
-      "version": "0.1.0",
+      "identifier": "@thatikondanikhil/mcp-sqlite-server-nsdg",
+      "version": "1.0.0",
       "transport": {
         "type": "stdio"
       }
