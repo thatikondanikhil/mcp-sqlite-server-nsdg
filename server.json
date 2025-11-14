@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-10-17/server.schema.json",
+  "name": "io.github.thatikondanikhil/mcp-sqlite-server-nsdg",
+  "title": "MCP SQLite Server NSDG",
+  "version": "0.1.0",
+  "description": "A Python-based MCP server.",
+  "repository": "https://github.com/thatikondanikhil/mcp-sqlite-server-nsdg",
+  "packages": [
+    {
+      "registryType": "pypi",
+      "identifier": "mcp-sqlite-server-nsdg",
+      "version": "0.1.0",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
